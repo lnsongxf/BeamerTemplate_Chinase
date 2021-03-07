@@ -1,1 +1,1 @@
-# BeamerTemplate_Chinase
+# BeamerTemplate_Chinese
